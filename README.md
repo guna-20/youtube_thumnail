@@ -1,4 +1,4 @@
-# YouTube Thumbnail Generator — Technical Write-Up
+
 
 ## Overview
 
